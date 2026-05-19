@@ -1,4 +1,4 @@
-# 🌸 Ayushi.AI — Prompt to Website Generator
+# Ayushi.AI — Prompt to Website Generator
 A hobby project that turns your prompt into a live editable website with instant preview and one-click publish.
 Simple idea → Clean Code → Live Website 🚀
 
